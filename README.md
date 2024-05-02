@@ -1,4 +1,5 @@
 # Global-Superstore-Sales-Analysis
+![image](https://github.com/ClaudioBucene/Global-Superstore-Sales-Analysis/assets/70841686/224a1f28-44bc-4989-a06e-46ff364e6b87)
 
 Global Supertore Dataset
 Dataset Source: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
